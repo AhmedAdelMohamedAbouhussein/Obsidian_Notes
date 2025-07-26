@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "package managers.md",
+                "file": "Full-Stack Tools/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "package managers"
+              "title": "Tools"
             }
           }
         ]
@@ -170,12 +170,13 @@
   },
   "active": "7da80663221e65a9",
   "lastOpenFiles": [
+    "FrontEnd/React Vite.md",
+    "package managers.md",
     "Full-Stack Tools/Tools.md",
     "Full-Stack Tools/Kafka.md",
     "Full-Stack Tools/Nginx.md",
     "Devops/Hosting platforms/AWS.md",
     "FrontEnd/CSS Framworks.md",
-    "FrontEnd/React Vite.md",
     "Devops/Run Docker using GitHub Actions.md",
     "Devops/Hosting platforms/Render.md",
     "assets/Pasted image 20250726142859.png",
@@ -195,7 +196,6 @@
     "assets/Pasted image 20250725191423.png",
     "assets/Pasted image 20250725191233.png",
     "assets/Pasted image 20250725191118.png",
-    "package managers.md",
     "Computer Graphics/OpenGL.md",
     "Computer Graphics",
     "Full-Stack Tools",

@@ -4,7 +4,7 @@
 
 - ==Database==: PostgreSQL / Mongodb
 
-- ==Hosting==: Verdell / Netlify (for frontend) Render / Heroku / Railway / AWS / Azure (for backend)
+- ==Hosting==: Fly.io/ Verdell / Netlify (for frontend) Render / Heroku / Railway / AWS / Azure (for backend)
 
 - ==Version Control:== Git + GitHub
 
