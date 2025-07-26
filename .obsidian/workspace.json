@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/Docker.md",
+                "file": "package managers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "package managers"
             }
           }
         ]
@@ -168,31 +168,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a50d250443b67b5",
+  "active": "7da80663221e65a9",
   "lastOpenFiles": [
-    "Devops/Run Docker using GitHub Actions.md",
-    "Devops/GitHub Action Notes.md",
-    "Devops/Docker.md",
+    "Full-Stack Tools/Tools.md",
+    "Full-Stack Tools/Kafka.md",
+    "Full-Stack Tools/Nginx.md",
+    "Devops/Hosting platforms/AWS.md",
     "FrontEnd/CSS Framworks.md",
     "FrontEnd/React Vite.md",
+    "Devops/Run Docker using GitHub Actions.md",
+    "Devops/Hosting platforms/Render.md",
+    "assets/Pasted image 20250726142859.png",
+    "assets/Pasted image 20250726142837.png",
+    "Devops/CI CD pipelines/GitHub Action Notes.md",
+    "Devops/Containerization/Docker.md",
+    "Devops/Containerization",
+    "Devops/CI CD pipelines",
+    "Devops/Hosting platforms",
+    "assets/Pasted image 20250726135015.png",
+    "assets/Pasted image 20250726134938.png",
+    "TODO",
+    "Untitled.md",
+    "Pasted image 20250725191910.png",
+    "assets/Pasted image 20250725191557.png",
+    "assets/Pasted image 20250725191448.png",
+    "assets/Pasted image 20250725191423.png",
+    "assets/Pasted image 20250725191233.png",
+    "assets/Pasted image 20250725191118.png",
     "package managers.md",
     "Computer Graphics/OpenGL.md",
     "Computer Graphics",
-    "Full-Stack Tools/Tools.md",
     "Full-Stack Tools",
     "Devops",
-    "assets/Pasted image 20250725180311.png",
     "FrontEnd",
-    "assets/Pasted image 20250725175935.png",
     "potential website.md",
-    "assets/Pasted image 20250725174426.png",
-    "assets/Pasted image 20250725174546.png",
-    "assets/Pasted image 20250725174347.png",
-    "assets/Pasted image 20250725174236.png",
-    "assets/Pasted image 20250725173954.png",
-    "Pasted image 20250725173834.png",
-    "assets/Pasted image 20250725173817.png",
-    "Pasted image 20250725164121.png",
     "assets",
     "Welcome.md",
     "create a link.md"
