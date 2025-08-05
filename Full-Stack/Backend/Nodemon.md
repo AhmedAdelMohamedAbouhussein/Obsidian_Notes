@@ -11,3 +11,6 @@ You likely mean **Nodemon** — a helpful tool used during Node.js development.
 ![[Pasted image 20250803220430.png]]
 - <span style="font-size:16px; color:green;">command</span> 
 	2. npm run dev
+
+nodemon VS --watech
+![[Pasted image 20250805181456.png]]

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb3f88991d385da",
+        "id": "ac2cbf6f52f33367",
         "type": "tabs",
         "children": [
           {
-            "id": "9ec17571aeab4c66",
+            "id": "464f15b4b63431c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Full-Stack/Backend/postman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "postman"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 302.5
   },
   "right": {
     "id": "836fff75dc5871eb",
@@ -164,52 +168,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ec17571aeab4c66",
+  "active": "0a50d250443b67b5",
   "lastOpenFiles": [
-    "Devops/Hosting platforms/AWS.md",
-    "Full-Stack Tools/Backend/Express JS.md",
-    "JS notes/Synchronous VS Asynchronous.md",
-    "JS notes/Callbacks VS Promises.md",
-    "JS notes/Async  and Await.md",
-    "Full-Stack Tools/Backend/CORS.md",
-    "Full-Stack Tools/Backend/DB/Cursor.md",
-    "assets/Pasted image 20250804165132.png",
-    "Full-Stack Tools/Backend/DB/Triggers.md",
-    "assets/Pasted image 20250804165016.png",
-    "Full-Stack Tools/Backend/DB",
-    "Full-Stack Tools/Backend/Nodejs.md",
-    "Full-Stack Tools/Backend/Nodemon.md",
-    "Full-Stack Tools/Backend/Rest API.md",
-    "assets/Pasted image 20250803220430.png",
-    "Full-Stack Tools/FrontEnd/React Vite.md",
-    "Full-Stack Tools/Backend/Kafka.md",
-    "Full-Stack Tools/Tools.md",
-    "assets/Pasted image 20250803182819.png",
-    "assets/Pasted image 20250803182739.png",
+    "assets/Pasted image 20250805210526.png",
     "Devops/Terraform.md",
-    "assets/Pasted image 20250803182357.png",
-    "Devops/Kubernetes.md",
-    "assets/Pasted image 20250803182146.png",
-    "assets/Pasted image 20250803182124.png",
-    "assets/Pasted image 20250803181356.png",
-    "assets/Pasted image 20250803181314.png",
+    "Full-Stack/Backend/postman.md",
+    "Devops/Run Docker using GitHub Actions.md",
     "Devops/Nginx.md",
-    "package managers.md",
+    "Devops/Kubernetes.md",
+    "Devops/Hosting platforms/Render.md",
+    "Devops/Hosting platforms/AWS.md",
+    "Devops/Containerization/Docker.md",
+    "Devops/CI CD pipelines/GitHub Action Notes.md",
+    "Computer Graphics/OpenGL.md",
+    "Full-Stack/Backend/DB/PLSQL vs SQL.md",
+    "Full-Stack/Backend/DB/Cursor.md",
+    "Full-Stack/Backend/DB/Triggers.md",
+    "Full-Stack/Backend/API.md",
+    "Full-Stack/Backend/CORS.md",
+    "Full-Stack/Backend/Kafka.md",
+    "Full-Stack/Backend/Nodejs.md",
+    "Full-Stack/Backend/Nodemailer.md",
+    "assets/Pasted image 20250805210240.png",
+    "HTTP status codes.md",
+    "Full-Stack/Backend/Nodemon.md",
+    "assets/Pasted image 20250805181456.png",
+    "Github/BFG Repo-Cleaner.md",
+    "Github/git rm -r --cached.md",
+    "assets/Pasted image 20250805155038.png",
+    "assets/Pasted image 20250805154902.png",
+    "assets/Pasted image 20250805154845.png",
+    "Full-Stack/FrontEnd/Raect/useGoogleLogin VS GoogleLogin.md",
+    "Github",
+    "assets/Pasted image 20250805143755.png",
+    "assets/Pasted image 20250805143548.png",
+    "assets/Pasted image 20250805143515.png",
+    "Tokens/JWT (ID Token) vs. Access Token.md",
+    "Tokens",
+    "assets/Pasted image 20250805143237.png",
+    "assets/Pasted image 20250805143141.png",
+    "Tokens/JWT (JSON Web Token).md",
+    "Full-Stack/FrontEnd/Raect",
+    "Full-Stack/Backend/DB",
     "JS notes",
-    "Untitled.md",
-    "Full-Stack Tools/Backend",
-    "Cpp notes/Set.md",
-    "Cpp notes/Map.md",
-    "Cpp notes/Vectors.md",
-    "Cpp notes/Iterators.md",
+    "Full-Stack/Backend",
     "Cpp notes/Map.cpp",
     "Map.cpp",
     "Cpp notes",
-    "Full-Stack Tools/FrontEnd/CSS Framworks.md",
-    "Devops/Run Docker using GitHub Actions.md",
-    "Devops/Containerization",
-    "Devops/CI CD pipelines",
-    "Devops/Hosting platforms",
-    "TODO"
+    "Devops/Containerization"
   ]
 }
