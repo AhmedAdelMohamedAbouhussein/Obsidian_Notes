@@ -11,3 +11,7 @@ A REST API lets one application (like your frontend) **talk to** another (like y
 
 ![[Pasted image 20250803182739.png]]
 ![[Pasted image 20250803182819.png]]
+
+![[Pasted image 20250805211029.png]]
+![[Pasted image 20250806142347.png]]
+    
