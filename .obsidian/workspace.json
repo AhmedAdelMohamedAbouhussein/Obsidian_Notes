@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full-Stack/Backend/Radis.md",
+                "file": "package managers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radis"
+              "title": "package managers"
             }
           }
         ]
@@ -168,26 +168,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eff69bfbff8a9c9c",
+  "active": "0a50d250443b67b5",
   "lastOpenFiles": [
-    "assets/Pasted image 20250806234548.png",
-    "assets/Pasted image 20250806234430.png",
-    "Full-Stack/Backend/Rest API.md",
+    "assets/Pasted image 20250807151924.png",
+    "assets/Pasted image 20250807152000.png",
+    "assets/Pasted image 20250807152129.png",
+    "assets/Pasted image 20250807152152.png",
+    "assets/Pasted image 20250807152255.png",
+    "assets/Pasted image 20250807152722.png",
+    "assets/Pasted image 20250807153936.png",
+    "assets/Pasted image 20250807173544.png",
+    "assets/Pasted image 20250807173729.png",
+    "Full-Stack/Backend/Cron Jobs.md",
+    "Full-Stack/Google Login/Google Login.md",
+    "Full-Stack/Google Login/React OAuth2.md",
+    "HTTP status codes.md",
+    "Full-Stack/Google Login/CLIENT_SECRET And CLIENT_ID.md",
+    "Full-Stack/Google Login/useGoogleLogin VS GoogleLogin.md",
+    "Full-Stack/Backend/Node JS/dotenv.md",
+    "Full-Stack/Google Login",
+    "Pasted image 20250807151841.png",
+    "Full-Stack/Backend/CORS.md",
     "Full-Stack/Backend/Radis.md",
-    "assets/Pasted image 20250806142347.png",
+    "Full-Stack/Backend/Rest API.md",
     "Full-Stack/Backend/GraphQL.md",
-    "assets/Pasted image 20250806142221.png",
     "Github/git filter-repo.md",
-    "assets/Pasted image 20250806141930.png",
     "Github/BFG Repo-Cleaner.md",
     "Full-Stack/Backend/Node JS/Express JS/express.Router();.md",
     "Full-Stack/Backend/Node JS/Express JS/Express JS.md",
     "Full-Stack/FrontEnd/Raect/React-router-dom.md",
     "Full-Stack/Backend/Node JS",
     "Full-Stack/Backend/Node JS/Express JS",
-    "assets/Pasted image 20250805211029.png",
     "Full-Stack/Backend/postman.md",
-    "assets/Pasted image 20250805210526.png",
     "Devops/Terraform.md",
     "Devops/Run Docker using GitHub Actions.md",
     "Devops/Nginx.md",
@@ -196,25 +208,12 @@
     "Devops/Hosting platforms/AWS.md",
     "Devops/Containerization/Docker.md",
     "Devops/CI CD pipelines/GitHub Action Notes.md",
-    "Computer Graphics/OpenGL.md",
-    "Full-Stack/Backend/DB/PLSQL vs SQL.md",
-    "Full-Stack/Backend/DB/Cursor.md",
-    "Full-Stack/Backend/DB/Triggers.md",
-    "Full-Stack/Backend/API.md",
-    "Full-Stack/Backend/CORS.md",
-    "Full-Stack/Backend/Kafka.md",
-    "Full-Stack/Backend/Node JS/Nodejs.md",
-    "assets/Pasted image 20250805210240.png",
-    "assets/Pasted image 20250805181456.png",
-    "assets/Pasted image 20250805155038.png",
-    "assets/Pasted image 20250805154902.png",
     "Github",
     "Tokens",
     "Full-Stack/FrontEnd/Raect",
     "Full-Stack/Backend/DB",
     "JS notes",
     "Full-Stack/Backend",
-    "Cpp notes/Map.cpp",
-    "Map.cpp"
+    "Cpp notes/Map.cpp"
   ]
 }
