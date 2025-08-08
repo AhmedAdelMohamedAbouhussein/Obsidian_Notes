@@ -8,5 +8,3 @@
 
 - <span style="font-size:16px; color:green;">command</span>
 	1. npm install express
-
-![[Pasted image 20250803182819.png]]
