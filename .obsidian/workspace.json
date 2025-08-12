@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node JS/Express JS/params.md",
+                "file": "Node JS/Mongoose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "params"
+              "title": "Mongoose"
+            }
+          },
+          {
+            "id": "b4fbf81fa816028a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/HTTP status codes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP status codes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,28 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a50d250443b67b5",
+  "active": "b4fbf81fa816028a",
   "lastOpenFiles": [
+    "Node JS/Mongoose.md",
+    "Node JS/Nodejs.md",
+    "Node JS/Nodemailer.md",
+    "Node JS/Nodemon.md",
+    "Node JS/strip.md",
+    "Node JS/Express JS/express.Router();.md",
+    "JavaScript/HTTP status codes.md",
+    "Node JS/Express JS/Parts of HTTP request.md",
+    "Node JS/Express JS/Express JS.md",
+    "Raect/React Vite.md",
+    "Node JS/Express JS/params.md",
     "assets/Pasted image 20250811190400.png",
     "assets/Pasted image 20250811190334.png",
-    "Node JS/Express JS/Parts of HTTP request.md",
     "Node JS/Express JS/routes.md",
     "Raect/Google Login.md",
     "Raect/React OAuth2.md",
-    "Raect/React Vite.md",
     "Raect/React-router-dom.md",
-    "Node JS/Express JS/params.md",
     "assets/Pasted image 20250811190212.png",
     "Node JS/Express JS/middleware.md",
     "assets/Pasted image 20250811182350.png",
     "assets/Pasted image 20250811182236.png",
     "assets/Pasted image 20250811182153.png",
-    "Node JS/strip.md",
     "JavaScript/axios.md",
-    "Node JS/Express JS/express.Router();.md",
-    "Node JS/Express JS/Express JS.md",
     "Node JS/Express JS/Controllers.md",
-    "JavaScript/HTTP status codes.md",
     "DB/Cursor.md",
     "DB/Triggers.md",
     "DB/PLSQL vs SQL.md",
@@ -202,12 +221,8 @@
     "assets/Pasted image 20250809170739.png",
     "Devops/Cloudflare Images.md",
     "FullStack",
-    "FullStack/package managers.md",
     "cpp",
-    "Raect/useGoogleLogin VS GoogleLogin.md",
-    "Backend/CORS.md",
     "assets/Pasted image 20250809162440.png",
-    "assets/Pasted image 20250809162258.png",
     "Full-Stack/Google Login",
     "Node JS",
     "Node JS/Express JS",
