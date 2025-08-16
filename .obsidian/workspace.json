@@ -11,10 +11,14 @@
             "id": "8c4e9b431399d3c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Authentication/OICD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OICD"
             }
           }
         ]
@@ -166,6 +170,8 @@
   },
   "active": "8c4e9b431399d3c9",
   "lastOpenFiles": [
+    "Node JS/passport js.md",
+    "Authentication/OICD.md",
     "Node JS/Mongoose.md",
     "Node JS/Crypto And Becrypt.md",
     "assets/Pasted image 20250816184525.png",
@@ -200,7 +206,6 @@
     "Node JS/Express JS/middleware.md",
     "assets/Pasted image 20250811182350.png",
     "Node JS/Express JS/Controllers.md",
-    "DB/Cursor.md",
     "FullStack",
     "cpp",
     "Full-Stack/Google Login",
