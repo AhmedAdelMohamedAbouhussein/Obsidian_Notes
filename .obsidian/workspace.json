@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/mongoDB/MongoDB commands.md",
+                "file": "Authorization and Authentication/OCID VS SAML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MongoDB commands"
+              "title": "OCID VS SAML"
             }
           }
         ]
@@ -170,9 +170,19 @@
   },
   "active": "8c4e9b431399d3c9",
   "lastOpenFiles": [
+    "assets/Pasted image 20250819204959.png",
+    "Authorization and Authentication/OICD.md",
+    "Authorization and Authentication/OCID VS SAML.md",
+    "Authorization and Authentication/SAML.md",
+    "assets/Pasted image 20250819204824.png",
+    "Authorization and Authentication/JWT (JSON Web Token).md",
+    "Authorization and Authentication/JWT (ID Token) vs. Access Token.md",
+    "Authorization and Authentication/cookies and sessions.md",
+    "Authorization and Authentication/CLIENT_SECRET And CLIENT_ID.md",
+    "JavaScript/HTTP status codes.md",
+    "DB/mongoDB/MongoDB commands.md",
     "assets/Pasted image 20250818154101.png",
     "Backend/Cloud Flare.md",
-    "DB/mongoDB/MongoDB commands.md",
     "Backend/Cloud Flare instructions.md",
     "assets/Pasted image 20250818144122.png",
     "Node JS/express-sessions.md",
@@ -181,7 +191,6 @@
     "DB/mongoDB/partialFilterExpression.md",
     "assets/Pasted image 20250817140932.png",
     "assets/Pasted image 20250817140906.png",
-    "Authentication/OICD.md",
     "DB/mongoDB",
     "Node JS/passport js.md",
     "Node JS/Mongoose.md",
@@ -189,31 +198,22 @@
     "assets/Pasted image 20250816184525.png",
     "assets/Pasted image 20250816184452.png",
     "assets/Pasted image 20250816184412.png",
-    "assets/Pasted image 20250816184320.png",
-    "assets/Pasted image 20250816184310.png",
     "Backend/CRUD API.md",
     "Backend/Rest API.md",
     "Backend/CORS.md",
-    "JavaScript/HTTP status codes.md",
     "Node JS/Express JS/Parts of HTTP request.md",
     "JavaScript/Async  and Await.md",
     "JavaScript/axios.md",
     "JavaScript/Callbacks VS Promises.md",
     "Node JS/Nodejs.md",
     "Node JS/Nodemailer.md",
-    "Node JS/Nodemon.md",
-    "Node JS/strip.md",
-    "Node JS/Express JS/express.Router();.md",
-    "Node JS/Express JS/Express JS.md",
-    "Raect/React Vite.md",
-    "Node JS/Express JS/params.md",
     "FullStack",
     "cpp",
     "Full-Stack/Google Login",
     "Node JS",
     "Node JS/Express JS",
     "Git",
-    "Authentication",
+    "Authorization and Authentication",
     "Raect",
     "DB"
   ]
