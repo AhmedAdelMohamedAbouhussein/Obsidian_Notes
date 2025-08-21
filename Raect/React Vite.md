@@ -5,6 +5,9 @@
 	4. http://localhost:5173/
 	
 ![[Screenshot 2025-08-02 200100.png]]
+- If you store the logged-in user in **state** (like `user` inside a `useState` in a parent `AuthProvider`), then whenever you call `setUser(...)`, React updates that state.
+- When state changes → React **re-renders any component that uses that state or receives it as props**.
+
 ![[Screenshot 2025-08-03 140523.png]]
 ![[Screenshot 2025-08-03 130745.png]]
 ![[Screenshot 2025-08-03 151137.png]]
