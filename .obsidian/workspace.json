@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/HTTP status codes.md",
+                "file": "CSS/Font Awsome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP status codes"
+              "title": "Font Awsome"
             }
           }
         ]
@@ -171,12 +171,15 @@
   },
   "active": "4e2614bc9b656f02",
   "lastOpenFiles": [
+    "CSS/CSS Framworks.md",
+    "CSS/Font Awsome.md",
+    "assets/Pasted image 20250825151056.png",
+    "JavaScript/HTTP status codes.md",
     "JavaScript/Async  and Await.md",
     "Devops/AWS.md",
     "Authorization and Authentication/SMTP port 465.md",
     "Authorization and Authentication/SSL and TLS.md",
     "Raect/React Vite.md",
-    "CSS/CSS Framworks.md",
     "Authorization and Authentication/mkcert.md",
     "Authorization and Authentication/SAML.md",
     "Authorization and Authentication/OICD.md",
@@ -196,7 +199,6 @@
     "assets/Pasted image 20250819204959.png",
     "assets/Pasted image 20250819204824.png",
     "Authorization and Authentication/CLIENT_SECRET And CLIENT_ID.md",
-    "JavaScript/HTTP status codes.md",
     "DB/mongoDB/MongoDB commands.md",
     "assets/Pasted image 20250818154101.png",
     "Backend/Cloud Flare.md",
@@ -205,9 +207,7 @@
     "Node JS/express-sessions.md",
     "assets/Pasted image 20250817172622.png",
     "assets/Pasted image 20250817172610.png",
-    "DB/mongoDB/partialFilterExpression.md",
     "assets/Pasted image 20250817140932.png",
-    "assets/Pasted image 20250817140906.png",
     "DB/mongoDB",
     "FullStack",
     "cpp",
