@@ -48,3 +48,8 @@ use cases:
 ![[Pasted image 20250725191448.png]]
 
 ![[Pasted image 20250725191557.png]]
+
+**AWS Cloud Practitioner cert**
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?utm_source=chatgpt.com
+
+![[Pasted image 20250905195832.png]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raect/Lazy Loading  IntersectionObserver.md",
+                "file": "Devops/Cloadinary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lazy Loading  IntersectionObserver"
+              "title": "Cloadinary"
             }
           }
         ]
@@ -171,12 +171,22 @@
   },
   "active": "496973492155af33",
   "lastOpenFiles": [
+    "Devops/AWS.md",
+    "Devops/Cloadinary.md",
+    "assets/Pasted image 20250905195832.png",
+    "Devops/Cloudflare Images.md",
+    "JavaScript/URL.createObjectURL.md",
+    "assets/Pasted image 20250905194757.png",
+    "assets/Pasted image 20250905194719.png",
+    "assets/Pasted image 20250905194711.png",
+    "Raect/easy-crop.md",
+    "assets/Pasted image 20250905191914.png",
+    "JavaScript/Maps.md",
+    "Raect/Lazy Loading  IntersectionObserver.md",
     "assets/Pasted image 20250829171559.png",
     "Frontend.md",
-    "Raect/Lazy Loading  IntersectionObserver.md",
     "Frontend",
     "Frontend/Lazy Loading.md",
-    "JavaScript/Maps.md",
     "assets/Pasted image 20250828194939.png",
     "Raect/React Vite.md",
     "JavaScript/Unix Epoch.md",
@@ -186,7 +196,6 @@
     "assets/Pasted image 20250825151056.png",
     "JavaScript/HTTP status codes.md",
     "JavaScript/Async  and Await.md",
-    "Devops/AWS.md",
     "Authorization and Authentication/SMTP port 465.md",
     "Authorization and Authentication/SSL and TLS.md",
     "Authorization and Authentication/mkcert.md",
@@ -198,18 +207,9 @@
     "Authorization and Authentication/JWT (ID Token) vs. Access Token.md",
     "prosies/reverse proxy.md",
     "prosies/forward proxy.md",
-    "prosies/proxies.md",
     "prosies",
     "assets/Pasted image 20250820234050.png",
-    "Raect/Vite proxy.md",
     "assets/Pasted image 20250820233141.png",
-    "Authorization and Authentication/Cross-OrIgin Cookies.md",
-    "assets/Pasted image 20250819204959.png",
-    "assets/Pasted image 20250819204824.png",
-    "assets/Pasted image 20250818154101.png",
-    "assets/Pasted image 20250818144122.png",
-    "assets/Pasted image 20250817172622.png",
-    "assets/Pasted image 20250817172610.png",
     "DB/mongoDB",
     "FullStack",
     "cpp",
