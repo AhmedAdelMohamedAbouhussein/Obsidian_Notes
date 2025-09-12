@@ -1,4 +1,4 @@
-- <span style="font-size:16px; color:green;">Tailwind CSS</span>:
+- [ ] <span style="font-size:16px; color:green;">Tailwind CSS</span>:
 	- is a utility-first framework that gives you small, reusable classes (like p-4 for padding or bg-blue-500 for color) to build custom designs directly in your HTML. Bootstrap, on the other hand, is component-based, offering ready-made UI elements (like buttons and navbars) with a default style. Tailwind gives more design freedom, while Bootstrap is faster for building standard layouts.
 	
 	- Tailwind uses **responsive design utilities** that are just **shortcuts for CSS media queries**.  

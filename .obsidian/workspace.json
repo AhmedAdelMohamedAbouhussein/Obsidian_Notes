@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af7e589df96a8fce",
+        "id": "bf077659ca814b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "496973492155af33",
+            "id": "751665eee9a16956",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/Cloadinary.md",
+                "file": "AWS CLOUD/Module1/AWS Shared Responsibility Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloadinary"
+              "title": "AWS Shared Responsibility Mode"
             }
           }
         ]
@@ -169,10 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "496973492155af33",
+  "active": "0a50d250443b67b5",
   "lastOpenFiles": [
-    "Devops/AWS.md",
+    "assets/Pasted image 20250912203843.png",
+    "AWS CLOUD/Module1/Regions.md",
+    "AWS CLOUD/Module1/AWS Shared Responsibility Mode.md",
+    "AWS CLOUD/Module1",
+    "assets/Pasted image 20250912203543.png",
+    "AWS CLOUD/Module1/Cloud Computing.md",
+    "AWS CLOUD/Module1/AWS Benefits.md",
+    "CSS/CSS Framworks.md",
     "Devops/Cloadinary.md",
+    "AWS CLOUD",
+    "Devops/AWS.md",
     "assets/Pasted image 20250905195832.png",
     "Devops/Cloudflare Images.md",
     "JavaScript/URL.createObjectURL.md",
@@ -192,7 +201,6 @@
     "JavaScript/Unix Epoch.md",
     "CSS/Font Awsome.md",
     "Fun Facts",
-    "CSS/CSS Framworks.md",
     "assets/Pasted image 20250825151056.png",
     "JavaScript/HTTP status codes.md",
     "JavaScript/Async  and Await.md",
@@ -202,20 +210,12 @@
     "Authorization and Authentication/SAML.md",
     "Authorization and Authentication/OICD.md",
     "Authorization and Authentication/OCID VS SAML.md",
-    "Authorization and Authentication/JWT + Sessions VS Cookies +Sessions.md",
-    "Authorization and Authentication/JWT (JSON Web Token).md",
-    "Authorization and Authentication/JWT (ID Token) vs. Access Token.md",
-    "prosies/reverse proxy.md",
-    "prosies/forward proxy.md",
     "prosies",
     "assets/Pasted image 20250820234050.png",
-    "assets/Pasted image 20250820233141.png",
     "DB/mongoDB",
     "FullStack",
     "cpp",
     "Full-Stack/Google Login",
-    "Node JS",
-    "Node JS/Express JS",
-    "Git"
+    "Node JS"
   ]
 }
