@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS CLOUD/Module1/AWS Shared Responsibility Mode.md",
+                "file": "AWS CLOUD/Module2/EC2 Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Shared Responsibility Mode"
+              "title": "EC2 Types"
             }
           }
         ]
@@ -169,15 +169,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a50d250443b67b5",
+  "active": "751665eee9a16956",
   "lastOpenFiles": [
-    "assets/Pasted image 20250912203843.png",
-    "AWS CLOUD/Module1/Regions.md",
+    "AWS CLOUD/Module2/Amazon Elastic Compute Cloud (Amazon EC2).md",
+    "AWS CLOUD/Module2/EC2 Types.md",
+    "assets/Pasted image 20250913211235.png",
+    "assets/Pasted image 20250913211144.png",
+    "assets/Pasted image 20250913211056.png",
+    "assets/Pasted image 20250913210938.png",
+    "assets/Pasted image 20250913210607.png",
+    "AWS CLOUD/Module1/AWS Benefits.md",
+    "AWS CLOUD/Module2",
     "AWS CLOUD/Module1/AWS Shared Responsibility Mode.md",
+    "AWS CLOUD/Module1/Regions.md",
+    "AWS CLOUD/Module1/Cloud Computing.md",
+    "AWS CLOUD/Module1/Untitled",
+    "assets/Pasted image 20250912203843.png",
     "AWS CLOUD/Module1",
     "assets/Pasted image 20250912203543.png",
-    "AWS CLOUD/Module1/Cloud Computing.md",
-    "AWS CLOUD/Module1/AWS Benefits.md",
     "CSS/CSS Framworks.md",
     "Devops/Cloadinary.md",
     "AWS CLOUD",
@@ -187,21 +196,16 @@
     "JavaScript/URL.createObjectURL.md",
     "assets/Pasted image 20250905194757.png",
     "assets/Pasted image 20250905194719.png",
-    "assets/Pasted image 20250905194711.png",
     "Raect/easy-crop.md",
-    "assets/Pasted image 20250905191914.png",
     "JavaScript/Maps.md",
     "Raect/Lazy Loading  IntersectionObserver.md",
-    "assets/Pasted image 20250829171559.png",
     "Frontend.md",
     "Frontend",
     "Frontend/Lazy Loading.md",
-    "assets/Pasted image 20250828194939.png",
     "Raect/React Vite.md",
     "JavaScript/Unix Epoch.md",
     "CSS/Font Awsome.md",
     "Fun Facts",
-    "assets/Pasted image 20250825151056.png",
     "JavaScript/HTTP status codes.md",
     "JavaScript/Async  and Await.md",
     "Authorization and Authentication/SMTP port 465.md",
@@ -209,13 +213,9 @@
     "Authorization and Authentication/mkcert.md",
     "Authorization and Authentication/SAML.md",
     "Authorization and Authentication/OICD.md",
-    "Authorization and Authentication/OCID VS SAML.md",
     "prosies",
-    "assets/Pasted image 20250820234050.png",
     "DB/mongoDB",
     "FullStack",
-    "cpp",
-    "Full-Stack/Google Login",
-    "Node JS"
+    "cpp"
   ]
 }
