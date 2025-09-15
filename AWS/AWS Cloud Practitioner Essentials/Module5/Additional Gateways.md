@@ -1,0 +1,5 @@
+AWS Transit Gateway is used to connect your Amazon VPCs and on-premises networks through a central hub. As your cloud infrastructure expands globally, inter-Region peering connects transit gateways together using the AWS Global Infrastructure. To learn more, refer to [AWS Transit Gateways(opens in a new tab)](https://aws.amazon.com/transit-gateway/).
+
+A NAT gateway is a NAT service. You can use a NAT gateway so that instances in a private subnet can connect to services outside your VPC but external services can't initiate a connection with those instances. To learn more, refer to [NAT gateway(opens in a new tab)](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
+
+You learned about Application Programming Interface (API)s earlier. Quick refresher, an API defines how different software systems can interact and communicate with each other. The Amazon API Gateway is an AWS service for creating, publishing, maintaining, monitoring, and securing APIs at any scale. To learn more, refer to [Amazon API Gateway(opens in a new tab)](https://aws.amazon.com/api-gateway/).
