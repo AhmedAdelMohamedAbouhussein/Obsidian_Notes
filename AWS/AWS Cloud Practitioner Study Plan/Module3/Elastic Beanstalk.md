@@ -1,0 +1,7 @@
+AWS Elastic Beanstalk. This is a service that makes it easier to deploy and manage applications in EC2. Instead of building out the needed infrastructure, like the network, EC2 instances, scaling, and elastic load balancers by yourself, you can provide your application code and desired configurations to the Elastic Beanstalk service. Elastic Beanstalk then takes that information and builds out your environment for you. Elastic Beanstalk also makes it easy to save environment configurations, so they can be deployed again. You won’t need to provision and manage all of these pieces separately, and you’ll still have visibility and control of the underlying resources.
+
+Elastic Beanstalk is a fully managed service that streamlines the deployment, management, and scaling of web applications. Developers can upload their code, and Elastic Beanstalk automatically handles the provisioning of infrastructure, scaling, load balancing, and application health monitoring. It supports various programming languages and frameworks, such as Java, .NET, Python, Node.js, Docker, and more. It provides full control over the underlying AWS resources while automating many operational tasks.
+
+**Good for**:  Deploying and managing web applications, RESTful APIs, mobile backend services, and microservices architectures, with automated scaling and simplified infrastructure management
+
+![[Pasted image 20250915163613.png]]
