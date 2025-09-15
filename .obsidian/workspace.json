@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb8bf7168bd757d",
+        "id": "b3f09bfd7ab934ac",
         "type": "tabs",
         "children": [
           {
-            "id": "8b7121dbfd945f31",
+            "id": "1517b76b26dfb103",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AWS/AWS Cloud Practitioner Essentials/Module4/IAC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IAC"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -165,53 +169,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b7121dbfd945f31",
+  "active": "1517b76b26dfb103",
   "lastOpenFiles": [
+    "Devops/IAC.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module4/IAC.md",
+    "Devops/Terraform.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module4/Interact with AWS resources using CloudFormation.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module4/Edge locations and CloudFormation.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module1/Regions & Availability Zones.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module4/CloudFront & Route 53.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module4/Factors when choosing a Region.md",
+    "Backend/Cloud Flare.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module4",
+    "Devops/Cloudflare Images.md",
+    "Devops/Cloadinary.md",
     "AWS/AWS Cloud Practitioner Study Plan/Module4.md",
     "AWS/AWS Cloud Practitioner Study Plan/Module1/Summary.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/Summary.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/Summary.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/Containers and Orchastrations.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/AWS Lambda.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/Amazon Lightsail.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/AWS Batch.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module2/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/Containers and Orchastrations.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/AWS Lambda.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/Amazon Lightsail.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/AWS Batch.md",
     "assets/Pasted image 20250915165337.png",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/AWS Outpost.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/Elastic Beanstalk.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/AWS Outpost.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/Elastic Beanstalk.md",
     "assets/Pasted image 20250915164917.png",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/VPS (Virtual Private Server).md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/VPS (Virtual Private Server).md",
     "assets/Pasted image 20250915164338.png",
     "assets/Pasted image 20250915164229.png",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/Fargate.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/Fargate.md",
     "assets/Pasted image 20250915163613.png",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3/Serverless Computing.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3/Serverless Computing.md",
     "assets/Pasted image 20250915162600.png",
     "assets/Pasted image 20250915162336.png",
     "assets/Pasted image 20250915162318.png",
     "assets/Pasted image 20250915162250.png",
     "assets/Pasted image 20250915162157.png",
     "Devops/Kubernetes.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/Amazon SQS and SNS.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/EC2 Types.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module3",
+    "AWS/AWS Cloud Practitioner Essentials/Module2/Amazon SQS and SNS.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module3",
     "AWS/AWS Cloud Practitioner Study Plan/Module2/Untitled",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/Amazon Elastic Compute Cloud (Amazon EC2).md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/AMI.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/AWS pricing options.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/Interact with AWS.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/Tightly Coupled vs Loosely Coupled Architecture.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/Load Balancing.md",
-    "AWS/AWS Cloud Practitioner Study Plan",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2/Scaling EC2.md",
-    "Devops/AWS.md",
-    "Devops/Nginx.md",
-    "Backend/Cloud Flare.md",
-    "AWS/AWS Cloud Practitioner Study Plan/Module2",
+    "AWS/AWS Cloud Practitioner Essentials",
+    "AWS/AWS Cloud Practitioner Essentials/Module2",
     "AWS CLOUD/Module1/Untitled",
-    "AWS/AWS Cloud Practitioner Study Plan/Module1",
+    "AWS/AWS Cloud Practitioner Essentials/Module1",
     "AWS",
     "Frontend",
-    "Fun Facts",
-    "prosies"
+    "Fun Facts"
   ]
 }
