@@ -1,23 +1,42 @@
-### **Summary of Resources**
+## 🚀 Summary of Resources – Containers & Compute
 
-This module provides a collection of resources to help you explore AWS services for containers, compute, and modern application strategies:
+- **Containers on AWS** → Overview of container services (storage, orchestration, compute).
+    
+- **Amazon ECR (Elastic Container Registry)** → Managed, secure container image storage & deployment.
+    
+- **Amazon ECS (Elastic Container Service)** → Managed orchestration for containerized apps.
+    
+- **Amazon EKS (Elastic Kubernetes Service)** → Managed Kubernetes clusters (AWS + on-prem). Integrated with AWS networking, storage, and security.
+    
+- **AWS Fargate** → Serverless compute for containers (no server mgmt). Works with ECS/EKS.
+    
+- **AWS Elastic Beanstalk** → PaaS for deploying & scaling web apps without worrying about infrastructure.
+    
+- **AWS Batch** → Managed batch computing service for running large-scale jobs efficiently.
+    
+- **Amazon Lightsail** → Simplified cloud platform (VPS, containers, databases) with predictable pricing.
+    
+- **AWS Outposts** → Brings AWS infrastructure & services to on-premises environments (low-latency workloads).
+    
 
-- **Containers on AWS** – Overview of AWS container services for image storage, orchestration, and compute.
+---
+
+✅ **Quick Differentiation Mnemonics**
+
+- _ECR_ → **Image storage**.
     
-- **Amazon ECR** – Fully managed container registry for secure storage and deployment of container images.
+- _ECS_ → **AWS-managed orchestration**.
     
-- **Amazon ECS** – Managed container orchestration service for deploying, managing, and scaling containerized applications.
+- _EKS_ → **Kubernetes flavor**.
     
-- **Amazon EKS** – Managed Kubernetes service for running clusters on AWS or on-premises, with built-in integration for security, networking, and storage.
+- _Fargate_ → **No servers (serverless containers)**.
     
-- **AWS Fargate** – Serverless compute engine for running containers without managing servers, integrated with ECS and EKS.
+- _Elastic Beanstalk_ → **Web app platform (PaaS)**.
     
-- **AWS Elastic Beanstalk** – Fully managed platform for deploying and scaling web applications without infrastructure management.
+- _Batch_ → **Big computing jobs**.
     
-- **AWS Batch** – Managed service for running large-scale batch computing jobs efficiently.
+- _Lightsail_ → **Beginner-friendly, simple cloud**.
     
-- **Amazon Lightsail** – Simplified cloud platform offering VPS, containers, and databases with predictable pricing.
-    
-- **AWS Outposts** – Extends AWS services and infrastructure to on-premises environments for low-latency workloads.
+- _Outposts_ → **AWS inside your data center**.
 
 ![[Pasted image 20250915165337.png]]

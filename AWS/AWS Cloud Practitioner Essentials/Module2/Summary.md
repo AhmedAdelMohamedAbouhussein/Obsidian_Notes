@@ -1,25 +1,50 @@
-### **Summary of Resources**
+## ⚡ Summary of Resources – AWS Compute
 
-This module includes resources to help you understand and work with AWS compute services:
+### 📘 Learning Resources
 
-- **Compute on AWS** – Overview of AWS cloud computing services.
+- **Compute on AWS** → Overview of cloud compute services.
     
-- **AWS Compute Blog** – Updates, tutorials, and best practices for services like EC2, Lambda, and ECS.
+- **AWS Compute Blog** → Updates, tutorials & best practices (EC2, Lambda, ECS, etc.).
     
-- **AWS Compute Services** – In-depth reference to compute offerings within AWS Cloud.
+- **AWS Compute Services** → In-depth reference of compute offerings.
     
-- **Hands-On Tutorials: Compute** – Step-by-step guides for beginners to gain practical AWS compute experience.
+- **Hands-On Tutorials: Compute** → Step-by-step beginner guides for practical experience.
     
-- **Amazon EC2** – Cloud-based virtual servers with flexible compute capacity.
+
+---
+
+### 🖥 Core Compute Services
+
+- **Amazon EC2** → Cloud-based virtual servers with flexible compute capacity.
     
-- **Amazon EC2 Instance Types** – Detailed specifications and use cases for different EC2 instance families (compute, memory, storage optimized, etc.).
+- **EC2 Instance Types** → Families optimized for compute, memory, storage, etc.
     
-- **Amazon EC2 Pricing** – Explanation of pricing models (On-Demand, Reserved, Spot) to optimize costs.
+- **EC2 Pricing Models** → On-Demand, Reserved, Spot – balance cost vs flexibility.
     
-- **Amazon EC2 Auto Scaling** – Automatically adjusts the number of instances to balance performance and cost.
+- **EC2 Auto Scaling** → Automatically adjusts instances for performance & cost savings.
     
-- **Elastic Load Balancing (ELB)** – Distributes incoming traffic across multiple EC2 instances for high availability.
+- **Elastic Load Balancing (ELB)** → Distributes traffic across multiple EC2 instances.
     
-- **Amazon SNS (Simple Notification Service)** – Messaging service for notifications via SMS, email, or push.
+
+---
+
+### 🔗 Messaging & Decoupling
+
+- **Amazon SNS (Simple Notification Service)** → Pub/Sub notifications via SMS, email, push.
     
-- **Amazon SQS (Simple Queue Service)** – Reliable message queuing for decoupling application components.
+- **Amazon SQS (Simple Queue Service)** → Message queuing for decoupling app components.
+    
+
+---
+
+✅ **Exam Tips**
+
+- _EC2_ → Think **raw compute** (virtual servers).
+    
+- _Instance Types_ → Match **workload to family** (e.g., memory-optimized for DBs).
+    
+- _Pricing_ → **On-Demand** (flexibility), **Reserved** (long-term savings), **Spot** (cheapest, interruptible).
+    
+- _Auto Scaling_ + _ELB_ → **High availability & resilience**.
+    
+- _SNS vs SQS_ → **SNS = push notifications**, **SQS = queue messages**.

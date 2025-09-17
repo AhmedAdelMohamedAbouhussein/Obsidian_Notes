@@ -28,3 +28,6 @@ With a virtual private gateway, you can establish a VPN connection between your 
 **Virtual private network**
 
 A VPN encrypts your internet traffic, helping protect it from anyone who might try to intercept or monitor it.
+
+
+A virtual private gateway is the virtual private network (VPN) endpoint on the AWS side. It provides a way for you to establish a secure, encrypted connection between your on-premises network and your virtual private cloud (VPC).
