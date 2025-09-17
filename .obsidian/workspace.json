@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df3122365cdeee77",
+        "id": "10c229c9c0d98003",
         "type": "tabs",
         "children": [
           {
-            "id": "058b951eb56b631a",
+            "id": "a1cb2496c4259ac8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AWS/AWS Cloud Practitioner Essentials/Module6/Additional Storage solutions/Storage Gateways.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Storage Gateways"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,8 +169,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "058b951eb56b631a",
+  "active": "a1cb2496c4259ac8",
   "lastOpenFiles": [
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Types of Storage.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/File storage/Amazon Elastic File System (EFS) (used for object storage and static website hosting).md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/File storage/Amazon FSx.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Block Storage/Block Level Storage.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Additional Storage solutions/Elastic Disaster Recovery.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Additional Storage solutions/Storage Gateways.md",
+    "assets/Pasted image 20250917165834.png",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Additional Storage solutions",
+    "assets/Pasted image 20250917164806.png",
+    "assets/Pasted image 20250917164418.png",
+    "assets/Pasted image 20250917164412.png",
+    "assets/Pasted image 20250917164404.png",
+    "assets/Pasted image 20250917164023.png",
+    "assets/Pasted image 20250917163938.png",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Block Storage/EBS Snapshots.md",
+    "assets/Pasted image 20250917163806.png",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Object Storage/S3 Storage Class Analysis.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/File storage",
+    "assets/Pasted image 20250917152620.png",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Object Storage/S3 Lifecycle.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Object Storage/S3 Storage Classes.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Object Storage/Amazon Simple Storage Service (S3).md",
+    "assets/Pasted image 20250917150639.png",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Block Storage/Amazon Data Lifecycle Manager.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Object Storage",
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Block Storage",
+    "AWS/AWS Cloud Practitioner Essentials/Module6",
     "AWS/AWS Cloud Practitioner Essentials/Module5/Networking components Diagram + Gateways.md",
     "AWS/AWS Cloud Practitioner Essentials/Module1/Summary.md",
     "AWS/AWS Cloud Practitioner Essentials/Module4/Summary.md",
@@ -180,38 +212,10 @@
     "AWS/AWS Cloud Practitioner Essentials/Module5/Security Groups (Stateful).md",
     "AWS/AWS Cloud Practitioner Essentials/Module5/VPC DEMO.md",
     "AWS/AWS Cloud Practitioner Essentials/Module5/Edge networking services.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module5/AWS Global Accelerator.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module5/VPN VS Direct Connect.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module5/All Together Example.md",
-    "assets/Pasted image 20250917132553.png",
-    "assets/Pasted image 20250917132326.png",
-    "assets/Pasted image 20250917132117.png",
-    "assets/Pasted image 20250917131947.png",
-    "assets/Pasted image 20250917131736.png",
-    "assets/Pasted image 20250917131727.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module5/VPCs and Subnets.md",
-    "assets/Pasted image 20250917131351.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module4/CloudFront & Route 53.md",
-    "assets/Pasted image 20250917131339.png",
-    "assets/Pasted image 20250917131105.png",
-    "Devops/Nginx.md",
-    "assets/Pasted image 20250917125628.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module4/IAC.md",
     "AWS/AWS Cloud Practitioner Essentials/Module5",
-    "Devops/IAC.md",
-    "Devops/Terraform.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module4/Interact with AWS resources using CloudFormation.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module4/Edge locations and CloudFormation.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module1/Regions & Availability Zones.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module4/Factors when choosing a Region.md",
     "AWS/AWS Cloud Practitioner Essentials/Module4",
     "AWS/AWS Cloud Practitioner Essentials/Module3",
     "AWS/AWS Cloud Practitioner Study Plan/Module2/Untitled",
-    "AWS/AWS Cloud Practitioner Essentials",
-    "AWS/AWS Cloud Practitioner Essentials/Module2",
-    "AWS CLOUD/Module1/Untitled",
-    "AWS/AWS Cloud Practitioner Essentials/Module1",
-    "AWS",
-    "Frontend"
+    "AWS/AWS Cloud Practitioner Essentials"
   ]
 }

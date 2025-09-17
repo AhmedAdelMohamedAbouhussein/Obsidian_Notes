@@ -1,0 +1,5 @@
+Elastic Disaster Recovery replicates critical workloads to AWS with minimal downtime. Your servers' block-level data is continuously replicated to AWS, making it ideal for uses that require robust disaster recovery solutions. It supports both physical and virtual servers to enable rapid recovery during disruptions, which is particularly valuable for industries like healthcare where system availability is crucial.
+
+You can use Elastic Disaster Recovery to reduce downtimes and data loss while eliminating the costs associated with maintaining secondary data centers. It also offers non-disruptive disaster recovery testing, meaning it's capable of quickly launching recovery instances when needed.
+
+Elastic Disaster Recovery provides continuous block-level replication that maintains exact server replicas with minimal time between backup intervals, enabling rapid recovery when needed.
