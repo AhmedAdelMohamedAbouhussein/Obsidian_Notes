@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Cloud Practitioner Essentials/Module9/Summary.md",
+                "file": "Devops/Cloudflare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Cloudflare"
             }
           }
         ]
@@ -171,8 +171,13 @@
   },
   "active": "46454d587ad93cc3",
   "lastOpenFiles": [
-    "AWS/AWS Cloud Practitioner Essentials/Module8/Summary.md",
+    "t.md",
+    "Devops/Cloudflare.md",
+    "Devops/Cloudflare Images.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module4/Interact with AWS resources using CloudFormation.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module1/Summary.md",
     "AWS/AWS Cloud Practitioner Essentials/Module9/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module8/Summary.md",
     "AWS/AWS Cloud Practitioner Essentials/Module9/Detecting and Responding to Security Incidents.md",
     "assets/Pasted image 20250920234639.png",
     "assets/Pasted image 20250920234607.png",
@@ -206,11 +211,6 @@
     "AWS/AWS Cloud Practitioner Essentials/Module7/Caching.md",
     "AWS/AWS Cloud Practitioner Essentials/Module7/AWS database accelerator options.md",
     "AWS/AWS Cloud Practitioner Essentials/Module7/Amazon Managed Blockchain.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/Amazon Neptune.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/AWS Backup.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/Amazon DocumentDB.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/NoSQL DB.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/RDS.md",
     "AWS/AWS Cloud Practitioner Essentials/Module7",
     "AWS/AWS Cloud Practitioner Essentials/Module6/Additional Storage solutions",
     "AWS/AWS Cloud Practitioner Essentials/Module6/File storage",
