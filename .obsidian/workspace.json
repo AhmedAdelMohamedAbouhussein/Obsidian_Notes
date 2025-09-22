@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "695a37f971f21f6e",
+        "id": "e96b8b33213e21d4",
         "type": "tabs",
         "children": [
           {
-            "id": "46454d587ad93cc3",
+            "id": "67a5e8437d964fd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/Cloudflare.md",
+                "file": "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Marketplace and AWS Partner Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloudflare"
+              "title": "AWS Marketplace and AWS Partner Network"
+            }
+          },
+          {
+            "id": "984b21d12eacf5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/AWS Cloud Practitioner Essentials/Module11/Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,53 +184,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46454d587ad93cc3",
+  "active": "984b21d12eacf5f7",
   "lastOpenFiles": [
-    "t.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Marketplace and AWS Partner Network.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module11/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Pricing and Billing Services.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Pricing Concepts.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Support Plans.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module11/Cost Optimization Example.md",
+    "assets/Pasted image 20250922165710.png",
+    "assets/Pasted image 20250922164326.png",
+    "assets/Pasted image 20250922164241.png",
+    "assets/Pasted image 20250922161735.png",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module11",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/Auditing AWS Resources for Compliance.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/Compliance (AWS Artifact).md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/Governance.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/AWS CloudTrail.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/Amazon CloudWatch.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/Introduction to Monitoring.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/AWS Health Dashboard.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/AWS Organizations.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10/Trusted Advisor.md",
+    "assets/Pasted image 20250921184059.png",
+    "assets/Pasted image 20250921183735.png",
+    "assets/Pasted image 20250921183258.png",
+    "assets/Pasted image 20250921182933.png",
+    "assets/Pasted image 20250921182524.png",
+    "assets/Pasted image 20250921182043.png",
+    "Devops/AWS.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module10",
     "Devops/Cloudflare.md",
+    "t.md",
     "Devops/Cloudflare Images.md",
     "AWS/AWS Cloud Practitioner Essentials/Module4/Interact with AWS resources using CloudFormation.md",
     "AWS/AWS Cloud Practitioner Essentials/Module1/Summary.md",
     "AWS/AWS Cloud Practitioner Essentials/Module9/Summary.md",
     "AWS/AWS Cloud Practitioner Essentials/Module8/Summary.md",
     "AWS/AWS Cloud Practitioner Essentials/Module9/Detecting and Responding to Security Incidents.md",
-    "assets/Pasted image 20250920234639.png",
-    "assets/Pasted image 20250920234607.png",
-    "assets/Pasted image 20250920232350.png",
     "AWS/AWS Cloud Practitioner Essentials/Module9/Protecting Data.md",
-    "assets/Pasted image 20250920231823.png",
-    "assets/Pasted image 20250920231738.png",
-    "assets/Pasted image 20250920231719.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module9/Protecting Networks and Applications.md",
-    "assets/Pasted image 20250920230319.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module9/Preventing Unauthorized Access.md",
-    "assets/Pasted image 20250920223512.png",
-    "assets/Pasted image 20250920223347.png",
-    "assets/Pasted image 20250920223230.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module9/Intro.md",
     "AWS/AWS Cloud Practitioner Essentials/Module9",
-    "AWS/AWS Cloud Practitioner Essentials/Untitled.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/Data Analytics/AWS data pipeline services.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/AI/Generative AI on AWS.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/AI/Tier 3 ML frameworks and infrastructure.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/AI/Tier 2 ML services.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/AI/AWS AI&ML solutions.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/AI/Tier 1 Pre-built AWS AI services.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/Data Analytics/Data analytics & ETL.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/Data Analytics/data lakes vs data warehouses.md",
     "AWS/AWS Cloud Practitioner Essentials/Module8/Data Analytics",
     "AWS/AWS Cloud Practitioner Essentials/Module8/AI",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/AI/Intro.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/Summary.md",
     "AWS/AWS Cloud Practitioner Essentials/Module8",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/Caching.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/AWS database accelerator options.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module7/Amazon Managed Blockchain.md",
     "AWS/AWS Cloud Practitioner Essentials/Module7",
     "AWS/AWS Cloud Practitioner Essentials/Module6/Additional Storage solutions",
     "AWS/AWS Cloud Practitioner Essentials/Module6/File storage",
-    "AWS/AWS Cloud Practitioner Essentials/Module6/Object Storage",
-    "AWS/AWS Cloud Practitioner Essentials/Module6/Block Storage",
-    "AWS/AWS Cloud Practitioner Essentials/Module6"
+    "AWS/AWS Cloud Practitioner Essentials/Module6/Object Storage"
   ]
 }
