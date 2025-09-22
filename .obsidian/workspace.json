@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e96b8b33213e21d4",
+        "id": "1406efb41c7d9520",
         "type": "tabs",
         "children": [
           {
-            "id": "67a5e8437d964fd3",
+            "id": "194c0affc050d28d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Marketplace and AWS Partner Network.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AWS Marketplace and AWS Partner Network"
-            }
-          },
-          {
-            "id": "984b21d12eacf5f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/AWS Cloud Practitioner Essentials/Module12/Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 436.5
   },
   "right": {
     "id": "836fff75dc5871eb",
@@ -184,53 +165,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "984b21d12eacf5f7",
+  "active": "0a50d250443b67b5",
   "lastOpenFiles": [
-    "AWS/AWS Cloud Practitioner Essentials/Module12/Migration Services and Tools.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module12/Summary.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module12/AWS Cloud Adoption Framework  (CAF).md",
-    "AWS/AWS Cloud Practitioner Essentials/Module12/Transferring Data Offline.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module12/Transferring Data Online.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module12/Database Migrations ( DMS & SCT).md",
-    "AWS/AWS Cloud Practitioner Essentials/Module12/Seven Migration Strategies.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 13 - Well-Architected Solutions/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 13 - Well-Architected Solutions/AWS Specialized Services.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 13 - Well-Architected Solutions/Setups.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 13 - Well-Architected Solutions/AWS Well-Architected Framework  (AWS WA Tool).md",
+    "assets/Pasted image 20250922202048.png",
+    "assets/Pasted image 20250922201217.png",
+    "assets/Pasted image 20250922201055.png",
+    "assets/Pasted image 20250922200528.png",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 13 - Well-Architected Solutions",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud/Migration Services and Tools.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud/AWS Cloud Adoption Framework  (CAF).md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud/Transferring Data Offline.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud/Transferring Data Online.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud/Database Migrations ( DMS & SCT).md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud/Seven Migration Strategies.md",
     "assets/Pasted image 20250922192420.png",
     "assets/Pasted image 20250922192239.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module12/Three phases of the migration process.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud/Three phases of the migration process.md",
     "assets/Pasted image 20250922191828.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module11/Summary.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module12",
+    "AWS/AWS Cloud Practitioner Essentials/Module 11 - Pricing and Support/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud",
     "AWS/AWS Cloud Practitioner Essentials/Module11/Untitled",
-    "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Marketplace and AWS Partner Network.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Pricing and Billing Services.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Pricing Concepts.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module11/AWS Support Plans.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module11/Cost Optimization Example.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 11 - Pricing and Support/AWS Marketplace and AWS Partner Network.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 11 - Pricing and Support/AWS Pricing and Billing Services.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 11 - Pricing and Support/AWS Pricing Concepts.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 11 - Pricing and Support/AWS Support Plans.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 11 - Pricing and Support/Cost Optimization Example.md",
     "assets/Pasted image 20250922165710.png",
     "assets/Pasted image 20250922164326.png",
     "assets/Pasted image 20250922164241.png",
-    "assets/Pasted image 20250922161735.png",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/Summary.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module11",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/Auditing AWS Resources for Compliance.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/Compliance (AWS Artifact).md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/Governance.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/AWS CloudTrail.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/Amazon CloudWatch.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/Introduction to Monitoring.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/AWS Health Dashboard.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/AWS Organizations.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10/Trusted Advisor.md",
-    "assets/Pasted image 20250921184059.png",
-    "assets/Pasted image 20250921183735.png",
-    "assets/Pasted image 20250921183258.png",
-    "Devops/AWS.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module10",
-    "Devops/Cloudflare.md",
-    "AWS/AWS Cloud Practitioner Essentials/Module9",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/Data Analytics",
-    "AWS/AWS Cloud Practitioner Essentials/Module8/AI",
-    "AWS/AWS Cloud Practitioner Essentials/Module8",
-    "AWS/AWS Cloud Practitioner Essentials/Module7",
-    "AWS/AWS Cloud Practitioner Essentials/Module6/Additional Storage solutions"
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud/Summary.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 11 - Pricing and Support",
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud/Auditing AWS Resources for Compliance.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud/Compliance (AWS Artifact).md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud/Governance.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud/AWS CloudTrail.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud/Amazon CloudWatch.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud/Introduction to Monitoring.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud/AWS Health Dashboard.md",
+    "AWS/AWS Cloud Practitioner Essentials/Module 10 - Monitoring, Compliance and Governance in the AWS Cloud",
+    "AWS/AWS Cloud Practitioner Essentials/Module 9 - Security",
+    "AWS/AWS Cloud Practitioner Essentials/Module 8 - AI ML and Data Analytics/Data Analytics",
+    "AWS/AWS Cloud Practitioner Essentials/Module 8 - AI ML and Data Analytics/AI",
+    "AWS/AWS Cloud Practitioner Essentials/Module 8 - AI ML and Data Analytics",
+    "AWS/AWS Cloud Practitioner Essentials/Module 7 - Databases"
   ]
 }
