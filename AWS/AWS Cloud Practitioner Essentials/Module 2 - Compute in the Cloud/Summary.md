@@ -1,3 +1,4 @@
+![[Pasted image 20250922213205.png]]
 ## ⚡ Summary of Resources – AWS Compute
 
 ### 📘 Learning Resources

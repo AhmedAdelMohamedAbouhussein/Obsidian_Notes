@@ -14,7 +14,7 @@ Amazon EC2 offers a broad range of instance types, each tailored to meet specifi
 
 ![[Pasted image 20250914013254.png]]
 
-
+![[Pasted image 20250926154547.png]]
 
 # AWS Instance Types
 

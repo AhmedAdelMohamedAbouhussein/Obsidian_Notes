@@ -18,3 +18,5 @@ Steps to start an EC2 Server
 ![[Pasted image 20250913211144.png]]
 
 ![[Pasted image 20250913211235.png]]
+
+![[Pasted image 20250926154620.png]]

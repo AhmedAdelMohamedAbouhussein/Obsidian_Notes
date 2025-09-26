@@ -5,6 +5,8 @@ Elastic Load Balancing (ELB) automatically distributes incoming application traf
 
 Although ELB and Amazon EC2 Auto Scaling are distinct services, they work in tandem to enhance application performance and ensure high availability. Together, they enable applications running on Amazon EC2 to scale effectively while maintaining consistent performance.
 
+The ELB service is made up of these main components: rules, listeners, and target groups. Listeners will contain rules, which are used by the listeners to route requests to the target groups.
+
 ![[Pasted image 20250914182047.png]]
 
 ![[Pasted image 20250914182134.png]]
