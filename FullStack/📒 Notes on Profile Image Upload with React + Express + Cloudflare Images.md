@@ -9,7 +9,6 @@ The frontend is responsible for:
 - Sending the cropped image to the backend.
     
 - Showing a preview of what the new profile image will look like.
-    
 
 ### Workflow:
 
@@ -95,6 +94,9 @@ Controller: Upload to Cloudflare
     
 - `form-data` package is required in Node to send multipart requests to Cloudflare:
 ![[Pasted image 20250927225416.png]]
+**Frontend (React/browser):** `FormData` is built-in, so you **don’t need to install anything**. Your `axios` call works as-is.
+
+
 Cloudflare returns:
 ![[Pasted image 20250927225436.png]]
 `variants[0]` is a usable URL you can store in MongoDB.
