@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack/📒 Notes on Profile Image Upload with React + Express + Cloudflare Images.md",
+                "file": "Node JS/nanoid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📒 Notes on Profile Image Upload with React + Express + Cloudflare Images"
+              "title": "nanoid"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "944c0c5be3849ff2",
   "lastOpenFiles": [
+    "assets/Pasted image 20250928224105.png",
+    "FullStack/📒 Notes on Profile Image Upload with React + Express + Cloudflare Images.md",
+    "Node JS/nanoid.md",
     "assets/Pasted image 20250927225436.png",
     "assets/Pasted image 20250927225416.png",
     "assets/Pasted image 20250927225352.png",
@@ -182,8 +185,6 @@
     "assets/Pasted image 20250927225027.png",
     "assets/Pasted image 20250927225024.png",
     "Node JS/Multer with memoryStorage or diskStorage.md",
-    "FullStack/📒 Notes on Profile Image Upload with React + Express + Cloudflare Images.md",
-    "assets/Pasted image 20250927224120.png",
     "Devops/Parallel Processing vs Pipelining.md",
     "AWS/AWS Cloud Practitioner Essentials/Module 5 - Networking/Additional Gateways.md",
     "AWS/Getting Started with DevOps on AWS/Demo.md",
@@ -207,7 +208,6 @@
     "AWS/AWS Cloud Practitioner Essentials/Module 6 - Storage/Block Storage/Block Level Storage.md",
     "AWS/AWS Cloud Practitioner Essentials/Module 6 - Storage/Object Storage/Amazon S3 bucket  & Object key names.md",
     "AWS/AWS Cloud Practitioner Essentials/Module 5 - Networking/Security Groups (Stateful).md",
-    "AWS/AWS Cloud Practitioner Essentials/Module 9 - Security/Preventing Unauthorized Access.md",
     "AWS/AWS Cloud Practitioner Essentials/Module 13 - Well-Architected Solutions",
     "AWS/AWS Cloud Practitioner Essentials/Module 12 - Migrating to the AWS Cloud",
     "AWS/AWS Cloud Practitioner Essentials/Module11/Untitled",
