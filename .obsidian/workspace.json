@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b151a9b2f2b54d0",
+        "id": "3196a51c5b4d7741",
         "type": "tabs",
         "children": [
           {
-            "id": "78ea89397939783d",
+            "id": "46135e2cc57733f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/WSL.md",
+                "file": "Assignments/OS/assignment 1/3 commands not in man.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WSL"
+              "title": "3 commands not in man"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wsl",
+                "query": "path:\"Devops/Linux/Ubuntu/assignments/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5026054382324
+    "width": 200
   },
   "right": {
     "id": "836fff75dc5871eb",
@@ -169,9 +169,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78ea89397939783d",
+  "active": "0a50d250443b67b5",
   "lastOpenFiles": [
+    "Assignments/OS/assignment 1/Regular Expression.md",
+    "Assignments/OS/Section 2 & 3.md",
+    "Assignments/OS/Assignment 3.md",
+    "Assignments/SRS/Purpose and Scope.md",
+    "Assignments/SRS/Assignment 2.md",
+    "Assignments/OS/assignment 1/3 commands not in man.md",
     "Untitled.base",
+    "Assignments/OS/assignment1/Untitled.md",
+    "Devops/Linux/Ubuntu/All command not in man.md",
+    "Assignments/SRS",
+    "Assignments/Untitled.md",
+    "Assignments/OS/assignment 1",
+    "Assignments/OS",
+    "Assignments",
+    "Devops/Linux/Ubuntu/assignments/assignment1/3 commands not in man.md",
+    "Devops/Linux/Ubuntu/assignments/assignment1/Regular Expression.md",
+    "Devops/Linux/Ubuntu/assignments/assignment1",
+    "Devops/Linux/Ubuntu/assignments",
+    "Devops/Linux/Ubuntu/assignments 1/assignment1/Regular Expression.md",
+    "Devops/Linux/Ubuntu/assignments 1/assignment1/All command not in man.md",
+    "Devops/Linux/Ubuntu/assignments 1/assignment1/3 commands not in man.md",
+    "Devops/Linux/Ubuntu/assignments 1/assignment1",
+    "Devops/Linux/Ubuntu/assignments 1",
+    "Devops/Linux/Zram.md",
+    "FullStack/Regular Expression 1.md",
+    "FullStack/package managers.md",
+    "FullStack/Tools.md",
     "Devops/WSL.md",
     "Untitled 1.base",
     "Devops/Virtualization/Docker.md",
@@ -181,32 +207,8 @@
     "Devops/Linux/Arch/Kitty.md",
     "Devops/Linux/Arch/Installing yay & Using AUR Packages.md",
     "Devops/Linux/Arch/AUR & yay.md",
-    "Devops/System Boot Process/Daemons Across Operating Systems.md",
-    "JavaScript/json vs jsonc.md",
-    "Devops/'.bin Files on Linux, Windows, and macOS.md",
-    "Devops/Linux/Zram.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/All commands needed.md",
-    "Devops/System Boot Process/EFI System Partition (ESP).md",
-    "Devops/System Boot Process/Partitions Format && Filesystem Types.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/8. Enabling Services.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/7. Bootloader Setup.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/6. Configuration (fstab, timezone, users).md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/5. Base Installation.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/9. Post-Install Notes.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/10. Post-install Notes.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/4. Mounting.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/3. Encryption + LVM Setup.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/2. Disk Partitioning.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide/1. Pre-installation.md",
-    "Devops/Linux/Arch/Arch Linux Full Installation Guide",
     "assets/Pasted image 20251013225432.png",
-    "Devops/System Boot Process",
     "assets/Pasted image 20251013225209.png",
-    "Devops/Linux/Ubuntu/assignments",
-    "Devops/Linux/Ubuntu",
-    "Devops/Linux/Arch",
-    "Devops/Linux",
-    "Devops/Virtualization",
     "assets/Pasted image 20250928224105.png",
     "assets/Pasted image 20250927225436.png",
     "assets/Pasted image 20250927225416.png",
@@ -214,7 +216,6 @@
     "assets/Pasted image 20250927225251.png",
     "assets/Pasted image 20250927225230.png",
     "assets/Pasted image 20250927225214.png",
-    "assets/Pasted image 20250927225106.png",
-    "AWS/Getting Started with DevOps on AWS"
+    "assets/Pasted image 20250927225106.png"
   ]
 }
