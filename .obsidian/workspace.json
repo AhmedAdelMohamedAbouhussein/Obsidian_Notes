@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/OS/assignment 1/3 commands not in man.md",
+                "file": "Frontend/URL Fragmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 commands not in man"
+              "title": "URL Fragmentation"
             }
           }
         ]
@@ -169,14 +169,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a50d250443b67b5",
+  "active": "46135e2cc57733f0",
   "lastOpenFiles": [
+    "Frontend/History API.md",
+    "Frontend/DocumentFragment.md",
+    "Frontend/Brail charecters.md",
+    "Frontend/Lazy Loading.md",
+    "Frontend/URL Fragmentation.md",
+    "assets/Pasted image 20251018003226.png",
+    "assets/Pasted image 20251018003010.png",
+    "assets/Pasted image 20251018002659.png",
+    "Frontend/Untitled",
+    "assets/Pasted image 20251018002142.png",
+    "assets/Pasted image 20251018002001.png",
+    "Assignments/OS/assignment 1/3 commands not in man.md",
     "Assignments/OS/assignment 1/Regular Expression.md",
     "Assignments/OS/Section 2 & 3.md",
     "Assignments/OS/Assignment 3.md",
     "Assignments/SRS/Purpose and Scope.md",
     "Assignments/SRS/Assignment 2.md",
-    "Assignments/OS/assignment 1/3 commands not in man.md",
     "Untitled.base",
     "Assignments/OS/assignment1/Untitled.md",
     "Devops/Linux/Ubuntu/All command not in man.md",
@@ -199,23 +210,12 @@
     "FullStack/package managers.md",
     "FullStack/Tools.md",
     "Devops/WSL.md",
-    "Untitled 1.base",
     "Devops/Virtualization/Docker.md",
     "Devops/Linux/Preload — Adaptive Readahead Daemon.md",
-    "Devops/Linux/Daemon.md",
-    "Devops/Linux/Arch/Hyprland + Matugen + Waybar + Rofi + Swww + Hyprpaper.md",
-    "Devops/Linux/Arch/Kitty.md",
-    "Devops/Linux/Arch/Installing yay & Using AUR Packages.md",
-    "Devops/Linux/Arch/AUR & yay.md",
     "assets/Pasted image 20251013225432.png",
     "assets/Pasted image 20251013225209.png",
     "assets/Pasted image 20250928224105.png",
     "assets/Pasted image 20250927225436.png",
-    "assets/Pasted image 20250927225416.png",
-    "assets/Pasted image 20250927225352.png",
-    "assets/Pasted image 20250927225251.png",
-    "assets/Pasted image 20250927225230.png",
-    "assets/Pasted image 20250927225214.png",
-    "assets/Pasted image 20250927225106.png"
+    "assets/Pasted image 20250927225416.png"
   ]
 }
