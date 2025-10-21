@@ -23,3 +23,13 @@ Examples:
 - `[^abc]` → `[^abc]at` matches `"dat"`, `"eat"`, `"fat"`
 - `(pattern)` → `(abc)+` matches `"abc"`, `"abcabc"`, `"abcabcabc"`
 - `|` → `cat|dog` matches `"cat"` or `"dog"`
+
+**grep**
+`grep` (Global Regular Expression Print) is a **Linux command-line tool** used to **search for text patterns in files** — and it uses **regex** internally.
+
+**Basic Syntax** : grep [options] 'pattern' filename
+
+For example, the command  
+`grep "error" logfile.txt`  
+searches through the file named **logfile.txt** and prints all lines that contain the word **“error”**.
+

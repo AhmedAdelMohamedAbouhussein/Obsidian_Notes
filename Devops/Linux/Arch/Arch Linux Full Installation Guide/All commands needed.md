@@ -3,7 +3,7 @@ ip link
 ip addr show
 systemctl status sshd
 lsblk
-fdisk /dev/storagename			g/p/n/w
+fdisk /dev/storagename			g/p/n/w/t
 
 mkfs.fat -F32 /dev/sdb1
 mkfs.ext4 /dev/sdb2
@@ -101,3 +101,81 @@ exit
 umount -R /mnt
 swapoff -a
 reboot
+
+
+
+yay -S bpytop
+
+
+### 1️⃣ Mount SSD (new system)
+
+`# Root and home 
+sudo mount /dev/main_volgroup0/lv_root /mnt/newroot 
+sudo mkdir -p /mnt/newroot/home 
+sudo mount /dev/main_volgroup0/lv_data /mnt/newroot/home  
+# Boot and EFI 
+sudo mkdir -p /mnt/newroot/boot 
+sudo mount /dev/sda2 /mnt/newroot/boot 
+sudo mkdir -p /mnt/newroot/boot/efi 
+sudo mount /dev/sda1 /mnt/newroot/boot/efi`
+
+---
+
+### 2️⃣ Mount old HDD (old system)
+
+sudo modprobe dm_mod 
+sudo vgscan 
+sudo vgchange -ay  
+sudo mkdir -p /mnt/oldroot 
+sudo mount /dev/main_volgroup0/lv_root /mnt/oldroot 
+sudo mkdir -p /mnt/oldroot/home 
+sudo mount /dev/main_volgroup0/lv_data /mnt/oldroot/home 
+# Boot and EFI from old HDD 
+sudo mkdir -p /mnt/oldroot/boot 
+sudo mount /dev/sdb2 /mnt/oldroot/boot 
+sudo mkdir -p /mnt/oldroot/boot/efi 
+sudo mount /dev/sdb1 /mnt/oldroot/boot/efi`
+
+---
+
+### 3️⃣ Copy everything from old root to new root
+
+`sudo rsync -aAXHv --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*","/run/*","/mnt/*","/media/*","/lost+found"} /mnt/oldroot/ /mnt/newroot/`
+
+---
+
+### 4️⃣ Copy `/home` (preserve user data)
+
+`sudo rsync -aAXHv /mnt/oldroot/home/ /mnt/newroot/home/`
+
+---
+
+### 5️⃣ Copy `/boot` and EFI
+
+`sudo rsync -aAXHv /mnt/oldroot/boot/ /mnt/newroot/boot/ sudo rsync -aAXHv /mnt/oldroot/boot/efi/ /mnt/newroot/boot/efi/`
+
+---
+
+### 6️⃣ Generate fstab for SSD
+
+`sudo genfstab -U /mnt/newroot > /mnt/newroot/etc/fstab`
+
+---
+
+### 7️⃣ Chroot into SSD
+
+`sudo arch-chroot /mnt/newroot`
+
+Inside chroot:
+
+# Rebuild initramfs
+mkinitcpio -P  
+# Reinstall GRUB 
+grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=Arch 
+grub-mkconfig -o /boot/grub/grub.cfg 
+# Enable swap 
+swapon /dev/sda3`
+
+Exit chroot and unmount:
+
+`exit sudo umount -R /mnt/newroot sudo swapoff /dev/sda3`
