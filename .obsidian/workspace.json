@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9675512ed3de1094",
+        "id": "b177333a9ea3ae1f",
         "type": "tabs",
         "children": [
           {
-            "id": "11c3c61d5480658c",
+            "id": "bea2b791881673c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignments/OS/Section 5.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Section 5"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openg",
+                "query": "package",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 454.5026054382324
   },
   "right": {
     "id": "836fff75dc5871eb",
@@ -169,53 +165,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11c3c61d5480658c",
+  "active": "bea2b791881673c6",
   "lastOpenFiles": [
-    "Assignments/OS/Section 2 & 3.md",
-    "Assignments/OS/Assignment 3.md",
-    "Assignments/OS/Section 5.md",
-    "Assignments/OS/assignment 1/Regular Expression.md",
-    "Assignments/OS/assignment 1/3 commands not in man.md",
-    "Assignments/OS/assignment 2",
-    "Assignments/SRS/Section 1.md",
-    "Assignments/SRS/Purpose and Scope.md",
-    "Assignments/SRS/Section 2.md",
-    "Ray Tracing/Blender Ray Tracing.md",
-    "Ray Tracing/Graphics Cards and Ray Tracing Cores.md",
-    "Ray Tracing/Solving Ray Tracing.md",
-    "Ray Tracing/How does CGI Computer Generated Images Work.md",
-    "Ray Tracing/Material Roughness and Bouncing Rays.md",
-    "Ray Tracing/Lighting a Scene with Ray Tracing (Global Illumination).md",
-    "Ray Tracing/Rendering a Scene with Ray Tracing.md",
-    "cpp/OpenGL.md",
-    "Ray Tracing",
-    "Computer Arch/CPU/What's inside a CPU.md",
-    "Computer Arch/CPU/The nanoscopic processes vs the microchip fab.md",
-    "Computer Arch/CPU/What are FinFet Transistors.md",
-    "assets/Pasted image 20251022180339.png",
-    "Computer Arch/CPU/How are Transistors Manufactured.md",
-    "Computer Arch/SSD/Overall chip in an SSD.md",
-    "Computer Arch/SSD/True size of an SSD microchip.md",
-    "Computer Arch/SSD/Calculations of Example Array.md",
-    "assets/Pasted image 20251022175903.png",
-    "Computer Arch/SSD/Control Gates of VNAND.md",
-    "Computer Arch/SSD/Vertical Strings and Pages in NAND Flash Memory.md",
-    "Computer Arch/SSD/Single Memory Cell.md",
-    "Computer Arch/CPU",
-    "Computer Arch/HDD",
-    "Computer Arch/SSD",
-    "Computer Arch",
-    "assets/Pasted image 20251021222317.png",
-    "assets/Pasted image 20251021222303.png",
-    "assets/Pasted image 20251021222154.png",
-    "assets/Pasted image 20251021222141.png",
-    "assets/Pasted image 20251021222126.png",
-    "assets/Pasted image 20251021222027.png",
-    "Computer Arch/GPUs",
+    "Package Mangers/Homebrew (brew).md",
+    "assets/Pasted image 20251212152747.png",
+    "Package Mangers/NPM (Node Package Manager).md",
+    "Package Mangers/package managers.md",
+    "assets/Pasted image 20251212152710.png",
+    "Package Mangers/Chocolatey (choco).md",
+    "assets/Pasted image 20251212152642.png",
+    "Package Mangers/Winget (Windows Package Manager).md",
+    "assets/Pasted image 20251212152611.png",
+    "assets/Pasted image 20251212152610.png",
+    "assets/Pasted image 20251212152609.png",
+    "Package Mangers/AUR & yay for Arch Linux.md",
+    "Package Mangers/NVM  (Node Version Manager).md",
+    "Package Mangers/Pyenv.md",
+    "Package Mangers/SDKMAN.md",
+    "assets/Pasted image 20251212151635.png",
+    "assets/Pasted image 20251212151552.png",
+    "Linux/Linux file (bashrc).md",
+    "Linux/Untitled.md",
+    "assets/Pasted image 20251212151354.png",
+    "Linux/Bash source Command.md",
+    "assets/Pasted image 20251212151303.png",
+    "side project notes/BashTaskManager/starter info.md",
+    "UNI/OS/assignment 1/3 commands not in man.md",
+    "UNI/OS/assignment 1/Regular Expression.md",
+    "FullStack/Regular Expression.md",
+    "FullStack/Notes on Profile Image Upload with React + Express + Cloudflare Images.md",
+    "JS Engines & Toolkits/Bun.md",
+    "JS Engines & Toolkits/Nodejs.md",
+    "Programming Languages/Zig/what is Zig.md",
+    "JS Engines & Toolkits",
+    "Programming Languages",
+    "System Boot Process/Daemons Across Operating Systems.md",
+    "Package Mangers",
+    "Linux/WSL.md",
+    "Linux/Ubuntu/All command not in man.md",
+    "Linux/Arch/Arch Linux Full Installation Guide/All commands needed.md",
+    "Backend/Kafka.md",
+    "Programming Languages/Rust",
+    "Programming Languages/Zig",
+    "Programming Languages/Go",
+    "Untitled 1.base",
+    "JS Engines & Toolkits/Bun",
     "Untitled.base",
-    "assets/Pasted image 20251018014344.png",
-    "assets/Pasted image 20251018014055.png",
-    "CS concepts",
-    "Frontend/Untitled"
+    "AI"
   ]
 }
