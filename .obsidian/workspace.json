@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS concepts/Design patterns.md",
+                "file": "ReadMe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design patterns"
+              "title": "ReadMe"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a50d250443b67b5",
+  "active": "45e473190f2766db",
   "lastOpenFiles": [
+    "CS concepts/Design patterns.md",
+    "ReadMe.md",
     "Programming Languages/Programming Languages.md",
     "Programming Languages/COBOL/COBOL (Common Business-Oriented Language).md",
     "JS Engines & Toolkits/JavaScript Runtime Engine.md",
@@ -196,8 +198,6 @@
     "Tech Terms/Sharding.md",
     "Tech Terms/Hook.md",
     "CS concepts/TUI.md",
-    "Tech Terms/Rasterization.md",
-    "Tech Terms/React Diffing.md",
     "assets/Pasted image 20260131130431.png",
     "assets/Pasted image 20260131125743.png",
     "Tech Terms",
