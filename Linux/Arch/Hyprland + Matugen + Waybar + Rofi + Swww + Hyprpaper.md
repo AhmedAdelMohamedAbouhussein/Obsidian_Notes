@@ -158,15 +158,3 @@ Example:
     
 
 ---
-
-## 🧠 **Recommended Setup Flow**
-
-1. **Start Hyprland**
-    
-2. **Launch Hyprpaper or Swww**
-    
-3. **Run Matugen** → generate theme
-    
-4. **Reload Waybar + Rofi** → apply new colors
-    
-5. **Enjoy your dynamically themed Wayland desktop 💅**

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b177333a9ea3ae1f",
+        "id": "6cae367643e91886",
         "type": "tabs",
         "children": [
           {
-            "id": "bea2b791881673c6",
+            "id": "45e473190f2766db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS concepts/Design patterns.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Design patterns"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "package",
+                "query": "design patterns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5026054382324
+    "width": 284.5026054382324
   },
   "right": {
     "id": "836fff75dc5871eb",
@@ -165,52 +169,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bea2b791881673c6",
+  "active": "0a50d250443b67b5",
   "lastOpenFiles": [
-    "Package Mangers/Homebrew (brew).md",
-    "assets/Pasted image 20251212152747.png",
-    "Package Mangers/NPM (Node Package Manager).md",
-    "Package Mangers/package managers.md",
-    "assets/Pasted image 20251212152710.png",
-    "Package Mangers/Chocolatey (choco).md",
-    "assets/Pasted image 20251212152642.png",
-    "Package Mangers/Winget (Windows Package Manager).md",
-    "assets/Pasted image 20251212152611.png",
-    "assets/Pasted image 20251212152610.png",
-    "assets/Pasted image 20251212152609.png",
-    "Package Mangers/AUR & yay for Arch Linux.md",
-    "Package Mangers/NVM  (Node Version Manager).md",
-    "Package Mangers/Pyenv.md",
-    "Package Mangers/SDKMAN.md",
-    "assets/Pasted image 20251212151635.png",
-    "assets/Pasted image 20251212151552.png",
-    "Linux/Linux file (bashrc).md",
-    "Linux/Untitled.md",
-    "assets/Pasted image 20251212151354.png",
-    "Linux/Bash source Command.md",
-    "assets/Pasted image 20251212151303.png",
-    "side project notes/BashTaskManager/starter info.md",
-    "UNI/OS/assignment 1/3 commands not in man.md",
-    "UNI/OS/assignment 1/Regular Expression.md",
-    "FullStack/Regular Expression.md",
-    "FullStack/Notes on Profile Image Upload with React + Express + Cloudflare Images.md",
+    "Programming Languages/Programming Languages.md",
+    "Programming Languages/COBOL/COBOL (Common Business-Oriented Language).md",
+    "JS Engines & Toolkits/JavaScript Runtime Engine.md",
+    "Programming Languages/COBOL",
     "JS Engines & Toolkits/Bun.md",
-    "JS Engines & Toolkits/Nodejs.md",
-    "Programming Languages/Zig/what is Zig.md",
+    "AI/Gaussian Mixture Model (GMM).md",
+    "Computer Arch/CPU/How are Transistors Manufactured.md",
+    "AI/Types of Machine Learning (ML).md",
+    "AI/Support Vector Machine (SVM).md",
+    "AI/K-Nearest Neighbors (KNN).md",
+    "AI/Logistic Regression.md",
+    "AI/Linear Regression.md",
+    "CS concepts/OS Notes.md",
+    "Linux/Linux commands.md",
+    "Devops/CDN (Content Delivery Network).md",
+    "Tech Terms/Caching.md",
+    "Tech Terms/Scalling.md",
+    "CS concepts/CLI, GUI, TUI, and Other Interfaces.md",
+    "Backend/WebSockets.md",
+    "Backend/Message Queues.md",
+    "Tech Terms/CAP Theorem.md",
+    "Tech Terms/Replication.md",
+    "Tech Terms/Sharding.md",
+    "Tech Terms/Hook.md",
+    "CS concepts/TUI.md",
+    "Tech Terms/Rasterization.md",
+    "Tech Terms/React Diffing.md",
+    "assets/Pasted image 20260131130431.png",
+    "assets/Pasted image 20260131125743.png",
+    "Tech Terms",
+    "assets/Pasted image 20251222181102.png",
+    "assets/Pasted image 20251222181053.png",
+    "assets/Pasted image 20251222181042.png",
+    "assets/Pasted image 20251222181029.png",
+    "Programming Languages/java",
+    "Untitled.base",
+    "others",
+    "assets/Pasted image 20251218171619.png",
+    "assets/Pasted image 20251218153721.png",
+    "assets/Pasted image 20251218153658.png",
+    "assets/Pasted image 20251218153637.png",
+    "design patterns",
     "JS Engines & Toolkits",
     "Programming Languages",
-    "System Boot Process/Daemons Across Operating Systems.md",
     "Package Mangers",
-    "Linux/WSL.md",
-    "Linux/Ubuntu/All command not in man.md",
-    "Linux/Arch/Arch Linux Full Installation Guide/All commands needed.md",
-    "Backend/Kafka.md",
-    "Programming Languages/Rust",
-    "Programming Languages/Zig",
-    "Programming Languages/Go",
-    "Untitled 1.base",
-    "JS Engines & Toolkits/Bun",
-    "Untitled.base",
-    "AI"
+    "Programming Languages/Rust"
   ]
 }
