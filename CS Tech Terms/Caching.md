@@ -43,18 +43,28 @@
     
 
 ---
-
 ## 4. Cache Strategies
 
-- **LRU (Least Recently Used)** – evict least recently used data
+- **LRU (Least Recently Used)**  
+    Evicts the data that has **not been accessed for the longest time**.  
+    Best when recently accessed data is likely to be reused.
     
-- **LFU (Least Frequently Used)** – evict least accessed data
+- **LFU (Least Frequently Used)**  
+    Evicts the data that has been **accessed the least number of times**.  
+    Focuses on access frequency rather than time.
     
-- **Write-through** – update cache + DB at the same time
+- **Write-through Cache**  
+    Data is written to the **cache and the database at the same time**.  
+    Provides strong consistency but results in **slower write performance**.
     
-- **Write-back** – update cache first, DB later
+- **Write-back (Write-behind) Cache**  
+    Data is written to the **cache first**, and the database is updated **later asynchronously**.  
+    Improves write performance but risks **data loss** if the cache fails before syncing.
     
-
+- **Write-around Cache**  
+    Data is written **directly to the database**, bypassing the cache.  
+    Prevents cache pollution from write-heavy or rarely-read data, but causes a **cache miss on first read**.
+    
 ---
 
 ## 5. Memory Hook

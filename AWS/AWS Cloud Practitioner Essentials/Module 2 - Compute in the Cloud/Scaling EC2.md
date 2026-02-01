@@ -27,22 +27,13 @@ Configure Amazon EC2 Auto Scaling components
 
 There are three main components of Amazon EC2 Auto Scaling. Each of these components addresses one main question as follows:
 
-- •
+- **Launch template or configuration:** Which resources should be automatically scaled?
     
-    **Launch template or configuration:** Which resources should be automatically scaled?
+- **Amazon EC2 Auto Scaling groups:** Where should the resources be deployed?
     
-- •
-    
-    **Amazon EC2 Auto Scaling groups:** Where should the resources be deployed?
-    
-- •
-    
-    **Scaling policies:** When should the resources be added or removed?
-    
+- **Scaling policies:** When should the resources be added or removed?
 
-### 
-
-Launch templates and configurations
+### Launch templates and configurations
 
 Multiple parameters are required to create EC2 instances—Amazon Machine Image (AMI) ID, instance type, security group, additional Amazon EBS volumes, and more. All this information is also required by Amazon EC2 Auto Scaling to create the EC2 instance on your behalf when there is a need to scale. This information is stored in a launch template.  
   
