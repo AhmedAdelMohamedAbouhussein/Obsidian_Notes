@@ -21,15 +21,15 @@ It doesn’t measure actual time or memory — it measures **efficiency** or **c
 
 ### 📈 **Common Big O Complexities**
 
-|Big O|Name|Description|Example|
-|---|---|---|---|
-|**O(1)**|Constant time|Runs the same time no matter the input size|Accessing an array element|
-|**O(log n)**|Logarithmic time|Grows slowly as input increases|Binary search|
-|**O(n)**|Linear time|Grows directly with input size|Loop through all items|
-|**O(n log n)**|Log-linear time|Slightly slower than linear|Merge sort, Quick sort|
-|**O(n²)**|Quadratic time|Grows very fast with input size|Nested loops|
-|**O(2ⁿ)**|Exponential time|Doubles each time input increases|Recursive Fibonacci|
-|**O(n!)**|Factorial time|Extremely slow|Solving traveling salesman brute force|
+| Big O          | Name             | Description                                 | Example                                |
+| -------------- | ---------------- | ------------------------------------------- | -------------------------------------- |
+| **O(1)**       | Constant time    | Runs the same time no matter the input size | Accessing an array element             |
+| **O(log n)**   | Logarithmic time | Grows slowly as input increases             | Binary search                          |
+| **O(n)**       | Linear time      | Grows directly with input size              | Loop through all items                 |
+| **O(n log n)** | Log-linear time  | Slightly slower than linear                 | Merge sort, Quick sort                 |
+| **O(n²)**      | Quadratic time   | Grows very fast with input size             | Nested loops                           |
+| **O(2ⁿ)**      | Exponential time | Doubles each time input increases           | Recursive Fibonacci                    |
+| **O(n!)**      | Factorial time   | Extremely slow                              | Solving traveling salesman brute force |
 
 ---
 
