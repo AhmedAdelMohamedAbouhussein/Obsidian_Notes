@@ -11,10 +11,14 @@
             "id": "f0298953bc86dff4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Alogrithms/Topological Sort.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Topological Sort"
             }
           }
         ]
@@ -165,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a50d250443b67b5",
+  "active": "f0298953bc86dff4",
   "lastOpenFiles": [
+    "assets/{96E08EFC-3C1A-409E-A4F1-32FD3171EDC5}.png",
+    "Alogrithms/Topological Sort.md",
     "Networking & Security/HTTP 1.1 vs HTTP 2 vs HTTP 3.md",
     "Programming Languages/JavaScript/axios.md",
     "JS Engines & Toolkits/Bun.md",
@@ -198,10 +204,8 @@
     "assets/{77219774-82A3-44EA-97E1-286E7FF274E7}.png",
     "Devops/WireGuard.md",
     "assets/{88856ACB-58BB-4052-9528-16E2C3EE68CE}.png",
-    "Alogrithms/Adjacency List.md",
     "assets/{C7FA82D2-3BB1-4EB7-9814-89EACE1C2217}.png",
     "assets/{37455E80-95FB-42D8-9770-6F126FEBC57D}.png",
-    "Alogrithms/bounded knapsack.md",
     "assets/{6384DE8F-6C11-405E-AFED-527B06644F60}.png",
     "assets/{3BB51B0F-ABB5-4344-BEEF-AACFD97F0238}.png",
     "assets/{B45FCB3A-796E-48F0-82D9-23E9CC68C627}.png",
